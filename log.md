@@ -9,4 +9,27 @@
 **Links to work:**
 
 1. See repos VueJs Course
+
+- C1-Basics
+
+2. [Udemy VueJS Course](https://www.udemy.com/share/101WzM3@XMgdT9w7Mhw-Rdt58PmX0xKOsLK05Y8F9FuTisZ_QfQn55aPJx_7cCkljRGFhmBj/)
+
+### Day 2: December 13th, 2021.
+
+**Today's Progress**: Learn how to interpolate and manipulate data in VueJs
+
+**Thoughts:** We start to deepen the basics of vueJs by talking about:
+
+- create App view (data and methods)
+- interpolation
+- control part of DOM
+- v-bind / v-html
+
+**Links to work:**
+
+1. See repos VueJs Course :
+
+- C2-starting-code
+- C2-Exercice1
+
 2. [Udemy VueJS Course](https://www.udemy.com/share/101WzM3@XMgdT9w7Mhw-Rdt58PmX0xKOsLK05Y8F9FuTisZ_QfQn55aPJx_7cCkljRGFhmBj/)
