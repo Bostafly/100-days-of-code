@@ -17,3 +17,12 @@ We start to deepen the basics of vueJs by talking about:
 - interpolation
 - control part of DOM
 - v-bind / v-html
+
+### R1D3
+
+Continue to go deepen in the basics of vue js
+
+- use event listener v-on to react on event
+- Add modifieur on an event (Exemple: v-on:click.right)
+- call multiple event on an object
+- v-once to initialize an object only once
