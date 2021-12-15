@@ -53,3 +53,23 @@
 - C3-Exercice2
 
 2. [Udemy VueJS Course](https://www.udemy.com/share/101WzM3@XMgdT9w7Mhw-Rdt58PmX0xKOsLK05Y8F9FuTisZ_QfQn55aPJx_7cCkljRGFhmBj/)
+
+### Day 3: December 13th, 2021.
+
+**Today's Progress**: Learn 2 way data binding, computed and watch value
+
+**Thoughts:** Continue to go deepen in the basics of vue js
+
+- use two way databinding
+- use computed value
+- use watcher value
+- shorthand for v-on and v-bin
+
+**Links to work:**
+
+1. See repos VueJs Course :
+
+- C4-Basics
+- C4-Exercice3
+
+2. [Udemy VueJS Course](https://www.udemy.com/share/101WzM3@XMgdT9w7Mhw-Rdt58PmX0xKOsLK05Y8F9FuTisZ_QfQn55aPJx_7cCkljRGFhmBj/)

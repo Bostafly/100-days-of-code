@@ -26,3 +26,12 @@ Continue to go deepen in the basics of vue js
 - Add modifieur on an event (Exemple: v-on:click.right)
 - call multiple event on an object
 - v-once to initialize an object only once
+
+### R1D4
+
+Learn 2 way data binding, computed and watch value
+
+- use two way databinding
+- use computed value
+- use watcher value
+- shorthand for v-on and v-bin
