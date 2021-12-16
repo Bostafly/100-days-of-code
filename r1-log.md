@@ -35,3 +35,11 @@ Learn 2 way data binding, computed and watch value
 - use computed value
 - use watcher value
 - shorthand for v-on and v-bin
+
+### R1D5
+
+Continue to go deepen in the basics of vue js
+
+- use dynamic inline style
+- use dynamic inline classes
+- concrete use of v-model

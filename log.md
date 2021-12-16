@@ -34,7 +34,7 @@
 
 2. [Udemy VueJS Course](https://www.udemy.com/share/101WzM3@XMgdT9w7Mhw-Rdt58PmX0xKOsLK05Y8F9FuTisZ_QfQn55aPJx_7cCkljRGFhmBj/)
 
-### Day 3: December 13th, 2021.
+### Day 3: December 14th, 2021.
 
 **Today's Progress**: Learn Event Binding in one way data binding
 
@@ -54,7 +54,7 @@
 
 2. [Udemy VueJS Course](https://www.udemy.com/share/101WzM3@XMgdT9w7Mhw-Rdt58PmX0xKOsLK05Y8F9FuTisZ_QfQn55aPJx_7cCkljRGFhmBj/)
 
-### Day 3: December 13th, 2021.
+### Day 4: December 15th, 2021.
 
 **Today's Progress**: Learn 2 way data binding, computed and watch value
 
@@ -71,5 +71,24 @@
 
 - C4-Basics
 - C4-Exercice3
+
+2. [Udemy VueJS Course](https://www.udemy.com/share/101WzM3@XMgdT9w7Mhw-Rdt58PmX0xKOsLK05Y8F9FuTisZ_QfQn55aPJx_7cCkljRGFhmBj/)
+
+### Day 5: December 16th, 2021.
+
+**Today's Progress**: Learn Dynamic styling
+
+**Thoughts:** Continue to go deepen in the basics of vue js
+
+- use dynamic inline style
+- use dynamic inline classes
+- concrete use of v-model
+
+**Links to work:**
+
+1. See repos VueJs Course :
+
+- C5-Basics
+- C4-Exercice4
 
 2. [Udemy VueJS Course](https://www.udemy.com/share/101WzM3@XMgdT9w7Mhw-Rdt58PmX0xKOsLK05Y8F9FuTisZ_QfQn55aPJx_7cCkljRGFhmBj/)
