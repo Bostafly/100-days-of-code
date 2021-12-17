@@ -92,3 +92,23 @@
 - C4-Exercice4
 
 2. [Udemy VueJS Course](https://www.udemy.com/share/101WzM3@XMgdT9w7Mhw-Rdt58PmX0xKOsLK05Y8F9FuTisZ_QfQn55aPJx_7cCkljRGFhmBj/)
+
+### Day 6: December 17th, 2021.
+
+**Today's Progress**: Learn conditionnal content in VueJS
+
+**Thoughts:** Continue to go deepen in the basics of vue js
+
+- using v-if / v-else / v-else-if
+- using v-for
+- iterate in num, object and array
+- using v-show
+
+**Links to work:**
+
+1. See repos VueJs Course :
+
+- C6-Conditionnal Content
+- C46Exercice5
+
+2. [Udemy VueJS Course](https://www.udemy.com/share/101WzM3@XMgdT9w7Mhw-Rdt58PmX0xKOsLK05Y8F9FuTisZ_QfQn55aPJx_7cCkljRGFhmBj/)

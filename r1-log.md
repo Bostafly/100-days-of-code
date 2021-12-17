@@ -43,3 +43,12 @@ Continue to go deepen in the basics of vue js
 - use dynamic inline style
 - use dynamic inline classes
 - concrete use of v-model
+
+### R2D6
+
+Learn conditionnal content in VueJS
+
+- using v-if / v-else / v-else-if
+- using v-for
+- iterate in num, object and array
+- using v-show
