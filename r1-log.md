@@ -52,3 +52,10 @@ Learn conditionnal content in VueJS
 - using v-for
 - iterate in num, object and array
 - using v-show
+
+### R3D7
+
+Continue to go deepen in the basics of vue js by develop a mini project
+
+- Mini project to attack / defense a monster
+- use all previous notion of VueJS

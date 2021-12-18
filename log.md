@@ -112,3 +112,20 @@
 - C46Exercice5
 
 2. [Udemy VueJS Course](https://www.udemy.com/share/101WzM3@XMgdT9w7Mhw-Rdt58PmX0xKOsLK05Y8F9FuTisZ_QfQn55aPJx_7cCkljRGFhmBj/)
+
+### Day 7: December 18th, 2021.
+
+**Today's Progress**: First Mini Projet in VUe JS
+
+**Thoughts:** Continue to go deepen in the basics of vue js by develop a mini project
+
+- Mini project to attack / defense a monster
+- use all previous notion of VueJS
+
+**Links to work:**
+
+1. See repos VueJs Course :
+
+- C7-MonsterProject
+
+2. [Udemy VueJS Course](https://www.udemy.com/share/101WzM3@XMgdT9w7Mhw-Rdt58PmX0xKOsLK05Y8F9FuTisZ_QfQn55aPJx_7cCkljRGFhmBj/)
