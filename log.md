@@ -129,3 +129,23 @@
 - C7-MonsterProject
 
 2. [Udemy VueJS Course](https://www.udemy.com/share/101WzM3@XMgdT9w7Mhw-Rdt58PmX0xKOsLK05Y8F9FuTisZ_QfQn55aPJx_7cCkljRGFhmBj/)
+
+### Day 8: December 18th, 2021.
+
+**Today's Progress**: Learn the Behind the scene of Vue JS
+
+**Thoughts:** See all very interesting interaction the DOM and VueJS. How it works and the lifecycle
+
+- Reactivity of element and Proxies Object in JS
+- Multi applications
+- Attributs refs
+- Understanding Virtual Dom
+- VueJS lifecycle
+
+**Links to work:**
+
+1. See repos VueJs Course :
+
+- C8-BEHINDTHESCENE
+
+2. [Udemy VueJS Course](https://www.udemy.com/share/101WzM3@XMgdT9w7Mhw-Rdt58PmX0xKOsLK05Y8F9FuTisZ_QfQn55aPJx_7cCkljRGFhmBj/)

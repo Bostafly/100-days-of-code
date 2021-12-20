@@ -59,3 +59,13 @@ Continue to go deepen in the basics of vue js by develop a mini project
 
 - Mini project to attack / defense a monster
 - use all previous notion of VueJS
+
+### R4D8
+
+See all very interesting interaction the DOM and VueJS. How it works and the lifecycle
+
+- Reactivity of element and Proxies Object in JS
+- Multi applications
+- Attributs refs
+- Understanding Virtual Dom
+- VueJS lifecycle
