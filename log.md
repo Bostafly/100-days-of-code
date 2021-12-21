@@ -130,7 +130,7 @@
 
 2. [Udemy VueJS Course](https://www.udemy.com/share/101WzM3@XMgdT9w7Mhw-Rdt58PmX0xKOsLK05Y8F9FuTisZ_QfQn55aPJx_7cCkljRGFhmBj/)
 
-### Day 8: December 18th, 2021.
+### Day 8: December 20th, 2021.
 
 **Today's Progress**: Learn the Behind the scene of Vue JS
 
@@ -150,7 +150,7 @@
 
 2. [Udemy VueJS Course](https://www.udemy.com/share/101WzM3@XMgdT9w7Mhw-Rdt58PmX0xKOsLK05Y8F9FuTisZ_QfQn55aPJx_7cCkljRGFhmBj/)
 
-### Day 9: December 18th, 2021.
+### Day 9: December 21th, 2021.
 
 **Today's Progress**: Learn Component on VueJS and start to work with VueCLI
 
