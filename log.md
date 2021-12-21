@@ -149,3 +149,22 @@
 - C8-BEHINDTHESCENE
 
 2. [Udemy VueJS Course](https://www.udemy.com/share/101WzM3@XMgdT9w7Mhw-Rdt58PmX0xKOsLK05Y8F9FuTisZ_QfQn55aPJx_7cCkljRGFhmBj/)
+
+### Day 9: December 18th, 2021.
+
+**Today's Progress**: Learn Component on VueJS and start to work with VueCLI
+
+**Thoughts:** I Learn the principe of vue component and start a new project with VueCLI
+
+- Vue Component
+- VueCLI
+- Real app architecture with view
+
+**Links to work:**
+
+1. See repos VueJs Course :
+
+- C9-Components
+- C9-VueJS/vue-first-app
+
+2. [Udemy VueJS Course](https://www.udemy.com/share/101WzM3@XMgdT9w7Mhw-Rdt58PmX0xKOsLK05Y8F9FuTisZ_QfQn55aPJx_7cCkljRGFhmBj/)

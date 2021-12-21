@@ -69,3 +69,11 @@ See all very interesting interaction the DOM and VueJS. How it works and the lif
 - Attributs refs
 - Understanding Virtual Dom
 - VueJS lifecycle
+
+### R5-6D9
+
+I Learn the principe of vue component and start a new project with VueCLI
+
+- Vue Components
+- VueCLI
+- Real app architecture with view
