@@ -77,3 +77,11 @@ I Learn the principe of vue component and start a new project with VueCLI
 - Vue Components
 - VueCLI
 - Real app architecture with view
+
+### R6D10
+
+I Learn the principe of vue component and start a new project with VueCLI
+
+- Using VueCLI
+- Use Vetur extension
+- Create a first component

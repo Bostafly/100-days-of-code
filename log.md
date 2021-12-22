@@ -168,3 +168,21 @@
 - C9-VueJS/vue-first-app
 
 2. [Udemy VueJS Course](https://www.udemy.com/share/101WzM3@XMgdT9w7Mhw-Rdt58PmX0xKOsLK05Y8F9FuTisZ_QfQn55aPJx_7cCkljRGFhmBj/)
+
+### Day 10: December 22th, 2021.
+
+**Today's Progress** Create first VueCLI app using a real structure
+
+**Thoughts:**
+
+- Using VueCLI
+- Use Vetur extension
+- Create a first component
+
+**Links to work:**
+
+1. See repos VueJs Course :
+
+- C10-VueNewProject
+
+2. [Udemy VueJS Course](https://www.udemy.com/share/101WzM3@XMgdT9w7Mhw-Rdt58PmX0xKOsLK05Y8F9FuTisZ_QfQn55aPJx_7cCkljRGFhmBj/)
