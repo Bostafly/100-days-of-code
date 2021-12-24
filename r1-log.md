@@ -85,3 +85,12 @@ I Learn the principe of vue component and start a new project with VueCLI
 - Using VueCLI
 - Use Vetur extension
 - Create a first component
+
+### R6D11-12
+
+Interesting part to handle data bind between parent and child components.
+
+- Using props
+- Using emits
+- Props and emit validation
+- using type for prop
