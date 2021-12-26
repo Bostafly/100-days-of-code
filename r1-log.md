@@ -94,3 +94,10 @@ Interesting part to handle data bind between parent and child components.
 - Using emits
 - Props and emit validation
 - using type for prop
+
+### R6D13
+
+Handle data bind between parent and child components with provider and injection
+
+- Using injection and provider
+- Use it with data and methods

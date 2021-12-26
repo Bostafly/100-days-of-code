@@ -186,3 +186,39 @@
 - C10-VueNewProject
 
 2. [Udemy VueJS Course](https://www.udemy.com/share/101WzM3@XMgdT9w7Mhw-Rdt58PmX0xKOsLK05Y8F9FuTisZ_QfQn55aPJx_7cCkljRGFhmBj/)
+
+### Day 11 - 12 : December 24th - 25th, 2021.
+
+**Today's Progress** Component communication in Vue JS
+
+**Thoughts:**Interesting part to handle data bind between parent and child components.
+
+- Using props
+- Using emits
+- Props and emit validation
+- using type for prop
+
+**Links to work:**
+
+1. See repos VueJs Course :
+
+- C11-VueNewProject
+
+2. [Udemy VueJS Course](https://www.udemy.com/share/101WzM3@XMgdT9w7Mhw-Rdt58PmX0xKOsLK05Y8F9FuTisZ_QfQn55aPJx_7cCkljRGFhmBj/)
+
+### Day 13 : December 26th, 2021.
+
+**Today's Progress** Component communication in Vue JS part 2
+
+**Thoughts:**Handle data bind between parent and child components with provider and injection
+
+- Using injection and provider
+- Use it with data and methods
+
+**Links to work:**
+
+1. See repos VueJs Course :
+
+- C12-VueNewProject
+
+2. [Udemy VueJS Course](https://www.udemy.com/share/101WzM3@XMgdT9w7Mhw-Rdt58PmX0xKOsLK05Y8F9FuTisZ_QfQn55aPJx_7cCkljRGFhmBj/)
