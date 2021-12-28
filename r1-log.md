@@ -101,3 +101,12 @@ Handle data bind between parent and child components with provider and injection
 
 - Using injection and provider
 - Use it with data and methods
+
+### RD14 - 15
+
+Using component in a deeper way
+
+- Learn how to use slot
+- learn to use the component tag
+- global vs local component
+- styling local component

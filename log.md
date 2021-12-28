@@ -222,3 +222,22 @@
 - C12-VueNewProject
 
 2. [Udemy VueJS Course](https://www.udemy.com/share/101WzM3@XMgdT9w7Mhw-Rdt58PmX0xKOsLK05Y8F9FuTisZ_QfQn55aPJx_7cCkljRGFhmBj/)
+
+### Day 14-15 : December 27th and 28th, 2021.
+
+**Today's Progress** Diving into Component
+
+**Thoughts:** Using component in a deeper way
+
+- Learn how to use slot
+- learn to use the component tag
+- global vs local component
+- styling local component
+
+**Links to work:**
+
+1. See repos VueJs Course :
+
+- C14-Diving deeper components
+
+2. [Udemy VueJS Course](https://www.udemy.com/share/101WzM3@XMgdT9w7Mhw-Rdt58PmX0xKOsLK05Y8F9FuTisZ_QfQn55aPJx_7cCkljRGFhmBj/)
