@@ -102,7 +102,7 @@ Handle data bind between parent and child components with provider and injection
 - Using injection and provider
 - Use it with data and methods
 
-### RD14 - 15
+### R7D14 - 15
 
 Using component in a deeper way
 
@@ -110,3 +110,12 @@ Using component in a deeper way
 - learn to use the component tag
 - global vs local component
 - styling local component
+
+### R7D16
+
+Using component in a deeper way
+
+- learn keep alive
+- learn teleport
+- style guide
+- end chapter about Components
