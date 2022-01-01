@@ -260,3 +260,17 @@
 - C14-Diving deeper components
 
 2. [Udemy VueJS Course](https://www.udemy.com/share/101WzM3@XMgdT9w7Mhw-Rdt58PmX0xKOsLK05Y8F9FuTisZ_QfQn55aPJx_7cCkljRGFhmBj/)
+
+## Day 17 : January 1st 2022.
+
+**Today's Progress** Mini projects to see all concepts
+
+**Thoughts:** Mini projects to see all concepts
+
+**Links to work:**
+
+1. See repos VueJs Course :
+
+- C15-Projects
+
+2. [Udemy VueJS Course](https://www.udemy.com/share/101WzM3@XMgdT9w7Mhw-Rdt58PmX0xKOsLK05Y8F9FuTisZ_QfQn55aPJx_7cCkljRGFhmBj/)

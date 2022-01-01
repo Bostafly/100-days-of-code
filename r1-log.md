@@ -119,3 +119,7 @@ Using component in a deeper way
 - learn teleport
 - style guide
 - end chapter about Components
+
+### R8D17
+
+Mini projects to see all concepts
