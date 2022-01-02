@@ -4,15 +4,12 @@
 </template>
 
 <script>
-
-
-
 import TheHeader from './components/layouts/TheHeader.vue';
 import TheResource from './components/learning-resources/TheResource.vue';
 export default {
     components :{
         TheHeader, 
-        TheResource
+        TheResource,
     }, 
  }
  </script>
