@@ -274,3 +274,35 @@
 - C15-Projects
 
 2. [Udemy VueJS Course](https://www.udemy.com/share/101WzM3@XMgdT9w7Mhw-Rdt58PmX0xKOsLK05Y8F9FuTisZ_QfQn55aPJx_7cCkljRGFhmBj/)
+
+## Day 18 : January 2nd 2022.
+
+**Today's Progress** End Mini projects to see all concepts
+
+**Thoughts:** End Mini projects to see all concepts
+
+**Links to work:**
+
+1. See repos VueJs Course :
+
+- C15-Projects
+
+2. [Udemy VueJS Course](https://www.udemy.com/share/101WzM3@XMgdT9w7Mhw-Rdt58PmX0xKOsLK05Y8F9FuTisZ_QfQn55aPJx_7cCkljRGFhmBj/)
+
+## Day 19 : January 3rd 2022.
+
+**Today's Progress** Handle Forms with VueJS
+
+**Thoughts:** Forms 
+
+- Learn custom component 
+- Learn how to use input with v-model
+- Learn validation fields
+
+**Links to work:**
+
+1. See repos VueJs Course :
+
+- C16-Forms
+
+2. [Udemy VueJS Course](https://www.udemy.com/share/101WzM3@XMgdT9w7Mhw-Rdt58PmX0xKOsLK05Y8F9FuTisZ_QfQn55aPJx_7cCkljRGFhmBj/)

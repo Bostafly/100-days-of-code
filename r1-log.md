@@ -123,3 +123,13 @@ Using component in a deeper way
 ### R8D17
 
 Mini projects to see all concepts
+
+### R8D18
+End Mini projects to see all concepts
+
+### R9D19
+Forms
+
+- Learn custom component
+- Learn how to use input with v-model
+- Learn validation fields
