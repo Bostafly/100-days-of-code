@@ -128,8 +128,15 @@ Mini projects to see all concepts
 End Mini projects to see all concepts
 
 ### R9D19
+
 Forms
 
 - Learn custom component
 - Learn how to use input with v-model
 - Learn validation fields
+
+### R10D20
+
+Learn how to send / receive http request from a vue app (use fetch and handling error)
+- Use Fetch to send request
+- Handling error (receiving and getting data)

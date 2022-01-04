@@ -306,3 +306,20 @@
 - C16-Forms
 
 2. [Udemy VueJS Course](https://www.udemy.com/share/101WzM3@XMgdT9w7Mhw-Rdt58PmX0xKOsLK05Y8F9FuTisZ_QfQn55aPJx_7cCkljRGFhmBj/)
+
+## Day 20 : January 4th 2022.
+
+**Today's Progress** Handle HTTP request 
+
+**Thoughts:** Learn how to send / receive http request from a vue app (use fetch and handling error)
+
+- Use Fetch to send request
+- Handling error (receiving and getting data)
+
+**Links to work:**
+
+1. See repos VueJs Course :
+
+- C17-HTTP
+
+2. [Udemy VueJS Course](https://www.udemy.com/share/101WzM3@XMgdT9w7Mhw-Rdt58PmX0xKOsLK05Y8F9FuTisZ_QfQn55aPJx_7cCkljRGFhmBj/)
